@@ -7,6 +7,6 @@ namespace ForecastApp.Config
 {
     public static class Constants
     {
-        public const string OPEN_WEATHER_APPID = "2d716452512427c5fd5bbfe5262ea00f";
+        public const string OPEN_WEATHER_APPID = "dc544674b9774bddf78e09814518e0bb";
     }
 }
